@@ -3,7 +3,7 @@
     <name>AddressBookPage</name>
     <message>
         <source>Right-click to edit address or label</source>
-        <translation>Double cliquez afin de modifier l'adresse ou l'étiquette</translation>
+        <translation>Double cliquer afin de modifier l'adresse ou l'étiquette</translation>
     </message>
     <message>
         <source>Create a new address</source>
@@ -43,7 +43,7 @@
     </message>
     <message>
         <source>C&amp;hoose</source>
-        <translation>C&amp;oisir</translation>
+        <translation>C&amp;hoisir</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -97,7 +97,7 @@
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>Répétez la phrase de passe</translation>
+        <translation>Répéter la phrase de passe</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Banned Until</source>
-        <translation>Banni jusque </translation>
+        <translation>Banni jusqu'à </translation>
     </message>
 </context>
 <context>
@@ -155,7 +155,7 @@
     </message>
     <message>
         <source>Browse transaction history</source>
-        <translation>Permet de parcourir l'historique des transactions</translation>
+        <translation>Parcourir l'historique des transactions</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -215,7 +215,7 @@
     </message>
     <message>
         <source>Reindexing blocks on disk...</source>
-        <translation>Réindexer les blocs sur le disque...</translation>
+        <translation>Réindexation des blocs sur le disque...</translation>
     </message>
     <message>
         <source>Send coins to a Dogecoin address</source>
@@ -227,7 +227,7 @@
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Modifier la phrase de passe utilisée pour le cryptage du porte-monnaie</translation>
+        <translation>Modifier la phrase de passe utilisée pour le chiffrement du porte-monnaie</translation>
     </message>
     <message>
         <source>&amp;Debug window</source>
@@ -267,11 +267,11 @@
     </message>
     <message>
         <source>Encrypt the private keys that belong to your wallet</source>
-        <translation>Crypter les clé privées qui appartiennent votre portefeuille</translation>
+        <translation>Chiffrer les clés privées qui appartiennent à votre portefeuille</translation>
     </message>
     <message>
         <source>Sign messages with your Dogecoin addresses to prove you own them</source>
-        <translation>Signer vos messages avec vos adresses Dogecoin pour prouver que vous les détenez</translation>
+        <translation>Signer les messages avec vos adresses Dogecoin pour prouver que vous les détenez</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -295,7 +295,7 @@
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
-        <translation>Montrer la liste des adresses d'envois utilisées et les étiquettes</translation>
+        <translation>Montrer la liste des adresses d'envoi utilisées et leurs étiquettes</translation>
     </message>
     <message>
         <source>Open a dogecoin: URI or payment request</source>
@@ -307,7 +307,7 @@
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Dogecoin network</source>
-        <translation><numerusform>%n connexion active au réseau Dogecoin</numerusform><numerusform>%n connexions actives au réseau Dogecoin</numerusform></translation>
+        <translation><numerusform>%n connexion(s) active(s) au réseau Dogecoin</numerusform><numerusform>%n connexions actives au réseau Dogecoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -319,11 +319,11 @@
     </message>
     <message>
         <source>Last received block was generated %1 ago.</source>
-        <translation>Le dernier bloc reçu a été généré %1.</translation>
+        <translation>Le dernier bloc reçu a été généré il y a %1.</translation>
     </message>
     <message>
         <source>Transactions after this will not yet be visible.</source>
-        <translation>Les transactions ne seront plus visible après ceci.</translation>
+        <translation>Les transactions ne seront plus visibles après ceci.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -400,7 +400,7 @@
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Selection</source>
-        <translation>Sélection de pièce </translation>
+        <translation>Sélection de pièce </translation> <!-- TODO Regarder dans le programme-->
     </message>
     <message>
         <source>Quantity:</source>
@@ -416,23 +416,23 @@
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Frais:</translation>
+        <translation>Frais :</translation>
     </message>
     <message>
         <source>Dust:</source>
-        <translation>Poussière: </translation>
+        <translation>Poussière :</translation>
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>Après frais:</translation>
+        <translation>Après frais :</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation>Change:</translation>
+        <translation>Change :</translation>
     </message>
     <message>
         <source>(un)select all</source>
-        <translation>(dé)sélectionné tout:</translation>
+        <translation>(dé)sélectionner tout :</translation>
     </message>
     <message>
         <source>Tree mode</source>
@@ -440,7 +440,7 @@
     </message>
     <message>
         <source>List mode</source>
-        <translation>Mode list</translation>
+        <translation>Mode liste</translation>
     </message>
     <message>
         <source>Amount</source>
@@ -448,7 +448,7 @@
     </message>
     <message>
         <source>Received with label</source>
-        <translation>Reçu avec : </translation>
+        <translation>Reçu avec l'étiquette</translation> <!-- TODO -->
     </message>
     <message>
         <source>Received with address</source>
@@ -484,7 +484,7 @@
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation>Copier après les frais</translation>
+        <translation>Copier après les frais</translation> <!-- TODO -->
     </message>
     <message>
         <source>Copy bytes</source>
@@ -507,7 +507,7 @@
     <name>EditAddressDialog</name>
     <message>
         <source>Edit Address</source>
-        <translation>Éditer l'adresse</translation>
+        <translation>Modifier l'adresse</translation>
     </message>
     <message>
         <source>&amp;Label</source>
@@ -522,7 +522,7 @@
     <name>FreespaceChecker</name>
     <message>
         <source>A new data directory will be created.</source>
-        <translation>Un nouveau répertoire de données sera créé. </translation>
+        <translation>Un nouveau répertoire de données sera créé.</translation>
     </message>
     <message>
         <source>name</source>
@@ -530,7 +530,7 @@
     </message>
     <message>
         <source>Path already exists, and is not a directory.</source>
-        <translation>Le chemin existe déjà et ce n'est pas un répertoire. </translation>
+        <translation>Le chemin existe déjà et ce n'est pas un répertoire.</translation>
     </message>
     <message>
         <source>Cannot create data directory here.</source>
@@ -569,7 +569,7 @@
     </message>
     <message>
         <source>Start minimized</source>
-        <translation>Démarrer sous forme minimisée</translation>
+        <translation>Démarrer minimisé</translation>
     </message>
     </context>
 <context>
@@ -584,7 +584,7 @@
     </message>
     <message>
         <source>Use the default data directory</source>
-        <translation>Utiliser le répertoire par défaut </translation>
+        <translation>Utiliser le répertoire par défaut</translation>
     </message>
     <message>
         <source>Use a custom data directory:</source>
@@ -592,7 +592,7 @@
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
-        <translation>Erreur: Le répertoire de données "%1" n'a pas pu être créé. </translation>
+        <translation>Erreur : Le répertoire de données "%1" n'a pas pu être créé. </translation>
     </message>
     <message>
         <source>Error</source>
@@ -600,11 +600,11 @@
     </message>
     <message numerus="yes">
         <source>%n GB of free space available</source>
-        <translation><numerusform>%n GO d'espace libre disponible</numerusform><numerusform>%n GO d'espace libre disponible</numerusform></translation>
+        <translation><numerusform>%n Go d'espace libre disponible</numerusform><numerusform>%n Go d'espace libre disponible</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>(of %n GB needed)</source>
-        <translation><numerusform>(%n GB nécessaire)</numerusform><numerusform>(%n GB nécessaire)</numerusform></translation>
+        <translation><numerusform>(%n Go nécessaire)</numerusform><numerusform>(%n Go nécessaire)</numerusform></translation>
     </message>
 </context>
 <context>
@@ -630,7 +630,7 @@
     </message>
     <message>
         <source>URI:</source>
-        <translation>URI:</translation>
+        <translation>URI :</translation>
     </message>
     <message>
         <source>Select payment request file</source>
@@ -653,7 +653,7 @@
     </message>
     <message>
         <source>MB</source>
-        <translation>MO</translation>
+        <translation>Mo</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -665,7 +665,7 @@
     </message>
     <message>
         <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
-        <translation>Adresse IP du proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</translation>
+        <translation>Adresse IP du proxy (ex : IPv4: 127.0.0.1 / IPv6: ::1)</translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
@@ -673,7 +673,7 @@
     </message>
     <message>
         <source>&amp;Reset Options</source>
-        <translation>&amp;Options de réinitialisation </translation>
+        <translation>&amp;Options de réinitialisation</translation>
     </message>
     <message>
         <source>&amp;Network</source>
@@ -701,11 +701,11 @@
     </message>
     <message>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation>Port du proxy (e.g. 9050)</translation>
+        <translation>Port du proxy (ex : 9050)</translation>
     </message>
     <message>
         <source>Used for reaching peers via:</source>
-        <translation>Utilisé pour contacter des pairs via:</translation>
+        <translation>Utilisé pour atteindre des pairs via:</translation>
     </message>
     <message>
         <source>IPv4</source>
@@ -725,19 +725,19 @@
     </message>
     <message>
         <source>&amp;Hide the icon from the system tray.</source>
-        <translation>&amp;Cacher l'icône dans la zone de notification.</translation>
+        <translation>&amp;Cacher l'icône dans la barre d'état.</translation> <!-- TODO -->
     </message>
     <message>
         <source>Hide tray icon</source>
-        <translation>Cacher l'icône de la zone de notification</translation>
+        <translation>Masquer l'icône de la barre d'état</translation> <!-- TODO -->
     </message>
     <message>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>&amp;Minimiser dans la barre système au lieu de la barre des tâches</translation>
+        <translation>&amp;Minimiser dans la barre d'état au lieu de la barre des tâches</translation>
     </message>
     <message>
         <source>M&amp;inimize on close</source>
-        <translation>Mi&amp;nimiser lors de la fermeture</translation>
+        <translation>Mi&amp;nimiser au lieu de fermer</translation>
     </message>
     <message>
         <source>&amp;Display</source>
@@ -745,7 +745,7 @@
     </message>
     <message>
         <source>User Interface &amp;language:</source>
-        <translation>Interface utilisateur &amp;langage:</translation>
+        <translation>Interface utilisateur &amp;langage :</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -757,7 +757,7 @@
     </message>
     <message>
         <source>default</source>
-        <translation>defaut</translation>
+        <translation>défaut</translation>
     </message>
     <message>
         <source>none</source>
@@ -765,15 +765,15 @@
     </message>
     <message>
         <source>Confirm options reset</source>
-        <translation>Confirmer les options de réinitialisation </translation>
+        <translation>Confirmer les options de réinitialisation</translation>
     </message>
     <message>
         <source>Client restart required to activate changes.</source>
-        <translation>Redémarrage du client nécessaire pour activer les changements.</translation>
+        <translation>Redémarrage du client nécessaire pour appliquer les changements.</translation>
     </message>
     <message>
         <source>This change would require a client restart.</source>
-        <translation>Ce changement nécessiterait un redémarrage du client.</translation>
+        <translation>Ce changement necessite un redémarrage du client.</translation>
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
@@ -788,39 +788,39 @@
     </message>
     <message>
         <source>Watch-only:</source>
-        <translation>Regarder seulement:</translation>
+        <translation>Regarder seulement :</translation>
     </message>
     <message>
         <source>Available:</source>
-        <translation>Disponible: </translation>
+        <translation>Disponible :</translation>
     </message>
     <message>
         <source>Pending:</source>
-        <translation>En attente:</translation>
+        <translation>En attente :</translation>
     </message>
     <message>
         <source>Immature:</source>
-        <translation>Immature:</translation>
+        <translation>Immature :</translation> <!-- TODO-->
     </message>
     <message>
         <source>Balances</source>
-        <translation>Balances</translation>
+        <translation>Balances</translation> <!-- TODO-->
     </message>
     <message>
         <source>Total:</source>
-        <translation>Total:</translation>
+        <translation>Total :</translation>
     </message>
     <message>
         <source>Your current total balance</source>
-        <translation>Votre balance totale courante</translation>
+        <translation>Solde total</translation> <!-- TODO correct ? -->
     </message>
     <message>
         <source>Spendable:</source>
-        <translation>Dépensable: </translation>
+        <translation>Disponible :</translation> <!-- TODO-->
     </message>
     <message>
         <source>Recent transactions</source>
-        <translation>Transactions récentes </translation>
+        <translation>Transactions récentes</translation>
     </message>
     </context>
 <context>
@@ -898,7 +898,7 @@
     <name>RPCConsole</name>
     <message>
         <source>N/A</source>
-        <translation>N/A </translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <source>Client version</source>
@@ -906,11 +906,11 @@
     </message>
     <message>
         <source>&amp;Information</source>
-        <translation>&amp;Information</translation>
+        <translation>&amp;Information</translation> <!-- TODO pluriel-->
     </message>
     <message>
         <source>Debug window</source>
-        <translation>Fenêtre de débogage </translation>
+        <translation>Débogage</translation>
     </message>
     <message>
         <source>General</source>
@@ -918,11 +918,11 @@
     </message>
     <message>
         <source>Using BerkeleyDB version</source>
-        <translation>Version BerkeleyDButilisée </translation>
+        <translation>Version BerkeleyDB utilisée</translation>
     </message>
     <message>
         <source>Startup time</source>
-        <translation>Le temps de démarrage</translation>
+        <translation>Temps de démarrage</translation> <!-- TODO temps ou durée ?-->
     </message>
     <message>
         <source>Network</source>
@@ -938,11 +938,11 @@
     </message>
     <message>
         <source>Block chain</source>
-        <translation>Chaîne de bloc </translation>
+        <translation>Chaîne de bloc</translation>
     </message>
     <message>
         <source>Current number of blocks</source>
-        <translation>Nombre courant de blocs</translation>
+        <translation>Nombre de blocs actuel</translation>
     </message>
     <message>
         <source>Memory Pool</source>
@@ -950,15 +950,15 @@
     </message>
     <message>
         <source>Current number of transactions</source>
-        <translation>Nombre courant de transactions</translation>
+        <translation>Nombre de transactions</translation> <!-- TODO actuel ?-->
     </message>
     <message>
         <source>Memory usage</source>
-        <translation>Usage de la mémoire</translation>
+        <translation>Utilisation mémoire</translation> <!-- TODO-->
     </message>
     <message>
         <source>Received</source>
-        <translation>Reçu </translation>
+        <translation>Reçu</translation> 
     </message>
     <message>
         <source>Sent</source>
@@ -974,7 +974,7 @@
     </message>
     <message>
         <source>Whitelisted</source>
-        <translation>Autorisé par la liste</translation>
+        <translation>En liste blanche</translation><!-- TODO-->
     </message>
     <message>
         <source>Direction</source>
@@ -990,11 +990,11 @@
     </message>
     <message>
         <source>Synced Blocks</source>
-        <translation>Blocs Synchronisés </translation>
+        <translation>Blocs Synchronisés </translation> <!-- TODO maj ?-->
     </message>
     <message>
         <source>User Agent</source>
-        <translation>Agent Utilisateur</translation>
+        <translation>Agent Utilisateur</translation> <!-- TODO maj ?-->
     </message>
     <message>
         <source>Services</source>
@@ -1018,11 +1018,11 @@
     </message>
     <message>
         <source>Ping Time</source>
-        <translation>Temps du ping</translation>
+        <translation>Ping</translation> <!-- TODO -->
     </message>
     <message>
         <source>Ping Wait</source>
-        <translation>Attente du ping</translation>
+        <translation>Attente Ping</translation> <!-- TODO -->
     </message>
     <message>
         <source>&amp;Open</source>
@@ -1034,7 +1034,7 @@
     </message>
     <message>
         <source>&amp;Network Traffic</source>
-        <translation>&amp;Trafic réseau</translation>
+        <translation>&amp;Trafic Réseau</translation> <!-- TODO maj ?-->
     </message>
     <message>
         <source>&amp;Clear</source>
@@ -1046,11 +1046,11 @@
     </message>
     <message>
         <source>In:</source>
-        <translation>Entrée:</translation>
+        <translation>Entrée :</translation> <!-- TODO espaces apres : revoir partout si oui-->
     </message>
     <message>
         <source>Out:</source>
-        <translation>Sortie:</translation>
+        <translation>Sortie :</translation>
     </message>
     <message>
         <source>Debug log file</source>
@@ -1058,7 +1058,7 @@
     </message>
     <message>
         <source>Clear console</source>
-        <translation>Nettoyer la console</translation>
+        <translation>Vider la console</translation>
     </message>
     <message>
         <source>1 &amp;hour</source>
@@ -1082,15 +1082,15 @@
     </message>
     <message>
         <source>%1 KB</source>
-        <translation>%1 KO</translation>
+        <translation>%1 Ko</translation>
     </message>
     <message>
         <source>%1 MB</source>
-        <translation>%1 MO</translation>
+        <translation>%1 Mo</translation>
     </message>
     <message>
         <source>%1 GB</source>
-        <translation>%1 GO</translation>
+        <translation>%1 Go</translation>
     </message>
     <message>
         <source>via %1</source>
@@ -1129,15 +1129,15 @@
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>Nettoyer tous les champs du formulaire.</translation>
+        <translation>Vider tous les champs du formulaire.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Nettoyer</translation>
+        <translation>Nettoyer</translation> <!-- TODO Vider ?-->
     </message>
     <message>
         <source>Requested payments history</source>
-        <translation>Historique des demandes de paiements.</translation>
+        <translation>Historique des demandes de paiements</translation>
     </message>
     <message>
         <source>&amp;Request payment</source>
@@ -1214,7 +1214,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Envoyer des pièces</translation>
+        <translation>Envoyer des Dogecoins</translation> <!-- TODO -->
     </message>
     <message>
         <source>Inputs...</source>
@@ -1222,19 +1222,19 @@
     </message>
     <message>
         <source>automatically selected</source>
-        <translation>Automatiquement sélectionné </translation>
+        <translation>Automatiquement sélectionné</translation>
     </message>
     <message>
         <source>Insufficient funds!</source>
-        <translation>Fonds insuffisants</translation>
+        <translation>Fonds insuffisants !</translation>
     </message>
     <message>
         <source>Quantity:</source>
-        <translation>Quantité:</translation>
+        <translation>Quantité :</translation>
     </message>
     <message>
         <source>Bytes:</source>
-        <translation>Octets:</translation>
+        <translation>Octets :</translation>
     </message>
     <message>
         <source>Amount:</source>
@@ -1242,19 +1242,19 @@
     </message>
     <message>
         <source>Fee:</source>
-        <translation>Frais:</translation>
+        <translation>Frais :</translation>
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>Après frais:</translation>
+        <translation>Après frais :</translation> <!-- TODO ??? apparait ailleurs : chercher si modif-->
     </message>
     <message>
         <source>Change:</source>
-        <translation>Change:</translation>
+        <translation>Change :</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
-        <translation>Frais de transaction</translation>
+        <translation>Frais de Transaction :</translation>
     </message>
     <message>
         <source>Choose...</source>
@@ -1262,7 +1262,7 @@
     </message>
     <message>
         <source>per kilobyte</source>
-        <translation>par kilo octet</translation>
+        <translation>par kilo-octet</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -1270,11 +1270,11 @@
     </message>
     <message>
         <source>total at least</source>
-        <translation>Au total au moins</translation>
+        <translation>Au total au moins</translation> <!-- TODO -->
     </message>
     <message>
         <source>Recommended:</source>
-        <translation>Recommandé: </translation>
+        <translation>Recommandé :</translation>
     </message>
     <message>
         <source>normal</source>
@@ -1286,15 +1286,15 @@
     </message>
     <message>
         <source>Send to multiple recipients at once</source>
-        <translation>Envoyer des pièces à plusieurs destinataires à la fois</translation>
+        <translation>Envoyer à plusieurs destinataires à la fois</translation>
     </message>
     <message>
         <source>Clear all fields of the form.</source>
-        <translation>Nettoyer tous les champs du formulaire.</translation>
+        <translation>Vider tous les champs du formulaire.</translation>
     </message>
     <message>
         <source>Dust:</source>
-        <translation>Poussière: </translation>
+        <translation>Poussière :</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -1306,7 +1306,7 @@
     </message>
     <message>
         <source>Confirm the send action</source>
-        <translation>Confirmer l'action d'envoi</translation>
+        <translation>Confirmer l'envoi</translation>
     </message>
     <message>
         <source>S&amp;end</source>
@@ -1314,19 +1314,19 @@
     </message>
     <message>
         <source>Copy amount</source>
-        <translation>Copier le montant</translation>
+        <translation>Copier montant</translation>
     </message>
     <message>
         <source>Copy fee</source>
-        <translation>Copier les frais</translation>
+        <translation>Copier frais</translation>
     </message>
     <message>
         <source>Copy after fee</source>
-        <translation>Copier après les frais</translation>
+        <translation>Copier après les frais</translation> <!-- TODO ?? -->
     </message>
     <message>
         <source>Copy bytes</source>
-        <translation>Copier les octets</translation>
+        <translation>Copier octets</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1349,7 +1349,7 @@
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>Choisir une adresse précédemment utilisée </translation>
+        <translation>Choisir une adresse déjà utilisée</translation>
     </message>
     <message>
         <source>This is a normal payment.</source>
@@ -1369,7 +1369,7 @@
     </message>
     <message>
         <source>Remove this entry</source>
-        <translation>Retirer cette entrée</translation>
+        <translation>Supprimer cette entrée</translation> <!-- TODO apparait ailleur "retirer"-->
     </message>
     <message>
         <source>Message:</source>
@@ -1398,7 +1398,7 @@
     </message>
     <message>
         <source>Choose previously used address</source>
-        <translation>Choisir une adresse précédemment utilisée </translation>
+        <translation>Choisir une adresse déjà utilisée</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1422,7 +1422,7 @@
     </message>
     <message>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>Copier l'adresse courante dans le presse papier</translation>
+        <translation>Copier l'adresse courante dans le presse-papier</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1430,7 +1430,7 @@
     </message>
     <message>
         <source>Clear &amp;All</source>
-        <translation>Nettoyer &amp;Tout</translation>
+        <translation>Vider &amp;Tout</translation>
     </message>
     <message>
         <source>&amp;Verify Message</source>
@@ -1471,7 +1471,7 @@
     </message>
     <message>
         <source>Generated</source>
-        <translation>Généré</translation>
+        <translation>Généré</translation> <!-- TODO ée ?-->
     </message>
     <message>
         <source>From</source>
@@ -1483,11 +1483,11 @@
     </message>
     <message>
         <source>To</source>
-        <translation>Á</translation>
+        <translation>À</translation>
     </message>
     <message>
         <source>own address</source>
-        <translation>Votre adresse</translation>
+        <translation>Votre adresse</translation> <!-- TODO V maj ?-->
     </message>
     <message>
         <source>watch-only</source>
@@ -1495,7 +1495,7 @@
     </message>
     <message>
         <source>label</source>
-        <translation>Étiquette </translation>
+        <translation>Étiquette</translation>
     </message>
     <message>
         <source>Credit</source>
@@ -1523,7 +1523,7 @@
     </message>
     <message>
         <source>Comment</source>
-        <translation>Commentaire </translation>
+        <translation>Commentaire</translation>
     </message>
     <message>
         <source>true</source>
@@ -1643,15 +1643,15 @@
     </message>
     <message>
         <source>Specify data directory</source>
-        <translation>Spécifier le répertoire de données</translation>
+        <translation>Choisir le répertoire de données</translation>
     </message>
     <message>
         <source>Specify your own public address</source>
-        <translation>Spécifier votre adresse publique </translation>
+        <translation>Choisir votre adresse publique</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation>Accepter les commandes de JSON-RPC et de la ligne de commande</translation>
+        <translation>Accepter la ligne de commande et les commandes JSON-RPC</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
@@ -1671,11 +1671,11 @@
     </message>
     <message>
         <source>Block creation options:</source>
-        <translation>Options de création de bloc:</translation>
+        <translation>Options de création de bloc :</translation>
     </message>
     <message>
         <source>Connection options:</source>
-        <translation>Options de connexion:</translation>
+        <translation>Options de connexion :</translation>
     </message>
     <message>
         <source>Debugging/Testing options:</source>
@@ -1683,8 +1683,7 @@
     </message>
     <message>
         <source>Importing...</source>
-        <translation>
-Importation ...</translation>
+        <translation>Import...</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
@@ -1708,7 +1707,7 @@ Importation ...</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation>Information</translation>
+        <translation>Information</translation> <!-- TODO pluriel ?-->
     </message>
     <message>
         <source>Node relay options:</source>
@@ -1724,7 +1723,7 @@ Importation ...</translation>
     </message>
     <message>
         <source>Signing transaction failed</source>
-        <translation>Transaction signée échouée</translation>
+        <translation>Échec de la signature</translation> <!-- TODO faire un essai pour bien comprendre le sens-->
     </message>
     <message>
         <source>This is experimental software.</source>
@@ -1732,7 +1731,7 @@ Importation ...</translation>
     </message>
     <message>
         <source>Transaction amount too small</source>
-        <translation>Montant de la transaction trop bas</translation>
+        <translation>Montant de la transaction trop faible</translation>
     </message>
     <message>
         <source>Transaction too large for fee policy</source>
@@ -1740,7 +1739,7 @@ Importation ...</translation>
     </message>
     <message>
         <source>Transaction too large</source>
-        <translation>Transaction trop grande</translation>
+        <translation>Transaction trop volumineuse</translation>
     </message>
     <message>
         <source>Username for JSON-RPC connections</source>
@@ -1772,7 +1771,7 @@ Importation ...</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Fonds insuffisants</translation>
+        <translation>Solde insuffisant</translation> <!-- TODO-->
     </message>
     <message>
         <source>Loading block index...</source>
@@ -1792,7 +1791,7 @@ Importation ...</translation>
     </message>
     <message>
         <source>Rescanning...</source>
-        <translation>Nouvelle analyse...</translation>
+        <translation>Analyse...</translation>
     </message>
     <message>
         <source>Done loading</source>
